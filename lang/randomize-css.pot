@@ -1,0 +1,99 @@
+# Copyright (C) 2013 Randomize CSS
+# This file is distributed under the same license as the Randomize CSS package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Randomize CSS 0.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/randomize-css\n"
+"POT-Creation-Date: 2013-12-12 00:39:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: randomize-css.php:68
+msgid "It is highly recommended to save the templates into files."
+msgstr ""
+
+#: randomize-css.php:70 randomize-css.php:75
+msgid "Template source"
+msgstr ""
+
+#: randomize-css.php:71
+msgid "Files"
+msgstr ""
+
+#: randomize-css.php:72
+msgid "Save your templates into \"%s\" directory and name them \"%s\"."
+msgstr ""
+
+#: randomize-css.php:76
+msgid "Database"
+msgstr ""
+
+#: randomize-css.php:77
+msgid "Edit your template below:"
+msgstr ""
+
+#: randomize-css.php:81
+msgid "CSS Template"
+msgstr ""
+
+#: randomize-css.php:87
+msgid "Donate"
+msgstr ""
+
+#: randomize-css.php:92
+msgid "Template format"
+msgstr ""
+
+#: randomize-css.php:94
+msgid "code"
+msgstr ""
+
+#: randomize-css.php:94
+msgid "example values"
+msgstr ""
+
+#: randomize-css.php:99
+msgid "ranges"
+msgstr ""
+
+#: randomize-css.php:103
+msgid "variables"
+msgstr ""
+
+#: randomize-css.php:106
+msgid "color sets"
+msgstr ""
+
+#: randomize-css.php:115
+msgid "Example template"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Randomize CSS 0.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: randomize-css.php:157 randomize-css.php:176
+msgid "Randomize CSS"
+msgstr ""
+
+#: randomize-css.php:158
+msgid "Randomize colors"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://blog.fleischer.hu/wordpress/randomize-css/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Randomizes css in a customizable way."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Gavriel Fleischer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://blog.fleischer.hu/author/gavriel/"
+msgstr ""
